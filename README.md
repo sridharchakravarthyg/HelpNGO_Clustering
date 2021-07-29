@@ -13,6 +13,7 @@ And this is where you come in as a data analyst. Your job is to categorise the c
 
 
 Objectives
+
 Your main task is to cluster the countries by the factors mentioned above and then present your solution and recommendations to the CEO using a PPT.  The following approach is suggested :
 
  
@@ -26,6 +27,7 @@ Both K-means and Hierarchical may give different results because of previous ana
  
 
 Results  Expected
+
 A well-commented Jupyter notebook containing the Clustering Models(both K-means and Hierarchical Clustering) and the final list of countries.
 Present the overall approach of the analysis in a presentation 
 Mention the problem statement and the analysis approach.
